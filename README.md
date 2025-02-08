@@ -15,4 +15,4 @@ python frps.py --serve_host 0.0.0.0 --serve_port 8800 --user_host 0.0.0.0 --user
 ```shell
 python frpc.py --serve_host 110.110.110.1 --serve_port 8800 --local_host localhost --local_port 3389
 ```
-然后通过110.110.110.1:8001就可以远程访问本机了！
+然后通过110.110.110.1:8801就可以远程访问本机了！
